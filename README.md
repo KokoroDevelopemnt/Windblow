@@ -4,21 +4,24 @@ Windblow Will be an anarchy-centric client that has better features than any oth
 Windblow is the only client that has Allows you to make custom guis
 
 # Modules(kinda a roadmap)
-Killaura
-Crystal Aura
-Surround
-Hole Snap
-TriggerBot
-AutoArmor
-Offhand
-AutoGapple
-AutoTotem
 
-Auto walk
-Auto Jump
-Windblow Packet Fly
-Flight
-Elytra flight
+Killaura.
+Crystal Aura.
+Surround.
+Hole Snap.
+TriggerBot.
+AutoArmor.
+Offhand.
+AutoGapple.
+AutoTotem.
+
+Auto walk.
+Auto Jump.
+Windblow Packet Fly.
+Flight.
+Elytra flight.
+Elytra Replace.
+Elytra Bot
 
 
 
